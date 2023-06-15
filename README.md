@@ -51,4 +51,4 @@ Other visualization can be seen at the 'general' tab of the attached Microsoft P
 
 
 ## Disclaimer
-The data provided in the accompanying Excel file is for illustrative and educational purposes only. It is important to note that this data is entirely hypothetical and does not represent actual or real-world information.
+The data provided in this project is for illustrative and educational purposes only. It is important to note that this data is entirely hypothetical and does not represent actual or real-world information.
