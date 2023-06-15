@@ -31,7 +31,7 @@ The data for this project comprises of different csv files that were extracted u
 
 These are:
 
-Order, Order detailS, products, Categories, Region, Customers, Employees, Employee Territories, Shippers, Suppliers and Terrtories.
+Order, Order detailS, products, Categories, Region, Customers, Employees, Employee Territories, Shippers, Suppliers and Terrtories files.
 
 
 ## Data Modelling
