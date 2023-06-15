@@ -31,25 +31,14 @@ The data for this project comprises of different csv files that were extracted u
 
 These are:
 
-Order
-
-Order detailS
-
-products
-
-Region
+Order, Order detailS, products, Categories, Region, Customers, Employees, Employee Territories, Shippers, Suppliers and Terrtories.
 
 
 ## Data Modelling
 
-Some of the tasks carried out while cleaning the data are shown below:
+The fact table used in this project is 'order_details' file. While other files such as products, employees, etc are the dimension tables.
 
-- Removal of duplicate rows
-- Removal of empty rows and columns
-- Removal of subtotals in the VAT , profit margin and booking price columns
-- Creating just one row of header
-- Creating a single column for the dates
-- Removing obstructions, like comments on the excel database.
+A calender dimension table was also created to help with the date selection. 
 
 
 ## Project Report
