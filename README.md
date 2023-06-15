@@ -12,15 +12,13 @@ This projects was aimed at increasing the productivity of the shipping manager o
 
 ## Project Description
 
-Project Description: Power BI Solution for Shipping Order Management
-
 The goal of this Power BI project was to provide the shipping manager with a comprehensive and insightful view of the outstanding orders on a daily basis, along with the corresponding shipping destinations. By leveraging the power of data visualization and analytics, this solution aimed to streamline order management and enhance decision-making in the shipping department.
 
 The Power BI dashboard allowed the shipping manager to have a real-time overview of the number of outstanding orders for each day. The data was presented through visually appealing charts and graphs, enabling quick identification of any surges or fluctuations in order volumes. This valuable information helped the shipping manager allocate appropriate resources and plan logistics effectively, ensuring timely and efficient order fulfillment.
 
 Furthermore, the Power BI solution provided valuable insights into customer behavior and order patterns. The shipping manager could easily access the top five customers based on order frequency or revenue, enabling a targeted approach to customer service and retention strategies. Similarly, the bottom five customers were identified, allowing for proactive measures to improve their experience and address any issues.
 
-Additionally, the Power BI dashboard highlighted the top products that were frequently ordered. This information helped optimize inventory management, ensuring the availability of popular products and avoiding stockouts or overstocking. By understanding the demand for specific products, the shipping manager could make data-driven decisions to streamline procurement and supply chain processes.
+In addition, the Power BI dashboard highlighted the top products that were frequently ordered. This information helped optimize inventory management, ensuring the availability of popular products and avoiding stockouts or overstocking. By understanding the demand for specific products, the shipping manager could make data-driven decisions to streamline procurement and supply chain processes.
 
 The Power BI solution also provided insights into the top destinations for orders. By analyzing shipping data, it identified the regions or countries with the highest order volumes. This information allowed the shipping manager to allocate resources accordingly, such as optimizing shipping routes, coordinating with carriers, or exploring potential market expansion opportunities.
 
@@ -29,12 +27,17 @@ In conclusion, this Power BI project empowered the shipping manager with a holis
 
 ## Data
 
-The data for this project is a single excel file with the order details with two sheets. 
+The data for this project comprises of different csv files that were extracted using the SQL data extraction commands. These have been attached for quick access.
 
-The first sheet is for the orders database with columns,Booking ID, 	Date of Booking,	Year,	Time,	Customer ID,	Gender,	Age,	Origin Country,	State	Location	,Destination Country,	Destination City Number Of People, Check-in Date,	Number Of Days,	Check-Out Date,	Rooms	,Hotel Name,	Hotel Rating,	Payment Mode,	Bank Name,	Number. Of Days,	Rooms	Booking Price[$],	Discount,	VAT and	Profit Margin.
+These are:
 
-The second sheet is a dictionary that decribes each of the columns.
+Order
 
+Order detailS
+
+products
+
+Region
 
 
 ## Data Modelling
