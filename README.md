@@ -4,45 +4,27 @@ This projects was aimed at increasing the productivity of the shipping manager o
 ## Table of Contents
 
 - [Project Description](#project-description)
-- [Project Task](#project-task)
 - [Data](#data)
-- [Data Cleaning](#data-cleaning)
+- [Data Modelling](#data-modelling)
 - [Project Report](#Project-Report)
 - [Disclaimer](#disclaimer)
 
 
 ## Project Description
 
-I analyzed the booking orders to generate valuable insights. By leveraging the data analysis capabilities of Excel, I aimed to uncover patterns, trends, and key metrics related to booking orders, enabling data-driven decision-making and optimization. The project focused on understanding the preferences of customers, their demographics, and identifying the top hotels based on bookings and user ratings.
+Project Description: Power BI Solution for Shipping Order Management
 
-The analysis of customer preferences and demographics is crucial for businesses in the travel and hospitality industry. By understanding the top countries customers prefer to visit, I was able to identify popular destinations and tailor marketing strategies accordingly. Additionally, analyzing customer demographics such as age groups, gender, and location provided valuable insights into the target audience and facilitated personalized offerings.
+The goal of this Power BI project was to provide the shipping manager with a comprehensive and insightful view of the outstanding orders on a daily basis, along with the corresponding shipping destinations. By leveraging the power of data visualization and analytics, this solution aimed to streamline order management and enhance decision-making in the shipping department.
 
-To achieve these objectives, I utilized various data analysis techniques within Excel. I cleaned and organized the data to extract meaningful insights, created pivot tables, used functions like COUNTIF and AVERAGEIFS, etc. and generated visualizations to present the data effectively.
+The Power BI dashboard allowed the shipping manager to have a real-time overview of the number of outstanding orders for each day. The data was presented through visually appealing charts and graphs, enabling quick identification of any surges or fluctuations in order volumes. This valuable information helped the shipping manager allocate appropriate resources and plan logistics effectively, ensuring timely and efficient order fulfillment.
 
-The analysis covered the following aspects:
+Furthermore, the Power BI solution provided valuable insights into customer behavior and order patterns. The shipping manager could easily access the top five customers based on order frequency or revenue, enabling a targeted approach to customer service and retention strategies. Similarly, the bottom five customers were identified, allowing for proactive measures to improve their experience and address any issues.
 
-Top Countries Customers Prefer to Visit:
-Through the examination of the data, I identified the countries that customers preferred to visit the most. This insight informed business decisions regarding marketing efforts, partnership opportunities, and targeted promotions.
+Additionally, the Power BI dashboard highlighted the top products that were frequently ordered. This information helped optimize inventory management, ensuring the availability of popular products and avoiding stockouts or overstocking. By understanding the demand for specific products, the shipping manager could make data-driven decisions to streamline procurement and supply chain processes.
 
-Customers' Profile and Demographics:
-I analyzed customer demographics, including age groups, gender, and location. This analysis provided a comprehensive understanding of the customer base, enabling the customization of services, marketing campaigns, and customer experiences.
+The Power BI solution also provided insights into the top destinations for orders. By analyzing shipping data, it identified the regions or countries with the highest order volumes. This information allowed the shipping manager to allocate resources accordingly, such as optimizing shipping routes, coordinating with carriers, or exploring potential market expansion opportunities.
 
-Top Hotels by Booking and Rating:
-By further analysis of the data, I identified the hotels with the highest booking frequencies. This insight helped prioritize resources, identify high-demand periods, and optimize capacity management. Additionally, by examining user ratings of hotels, I identified hotels with high customer satisfaction, facilitating reputation management and customer retention strategies.
-
-Through the completion of this Excel project, I have provided actionable insights that drive strategic decision-making, enhance customer satisfaction, and optimize business operations in the travel and hospitality industry. Leveraging Excel's data analysis techniques, I presented the findings in a visually compelling manner, facilitating effective communication and implementation of the insights gained.
-
-The outcomes of this project empower businesses to make informed decisions and deliver exceptional experiences to their customers. The analysis of booking orders has provided valuable insights into customer preferences, demographics, and hotel performance, contributing to the overall success and growth of the business in the travel and hospitality industry.
-
-
-## Project Task
-
-1. To provide insights on Top countries Customers prefer to visit.
-2. Customers profile and demographics?
-3. Analyze the data to provide insights demographics of the Customers such as the Age groups, Gender and location.
-4. Top Hotels by Booking and Rating?
-5. Analyze the data to provide insights on most preferred hotel by Customers and Hotels with high user rating.
-
+In conclusion, this Power BI project empowered the shipping manager with a holistic view of outstanding orders, shipping destinations, customer insights, and product analysis. By leveraging these insights, the shipping department was able to enhance operational efficiency, improve customer satisfaction, and make informed decisions to drive business growth.
 
 
 ## Data
@@ -55,7 +37,7 @@ The second sheet is a dictionary that decribes each of the columns.
 
 
 
-## Data Cleaning
+## Data Modelling
 
 Some of the tasks carried out while cleaning the data are shown below:
 
@@ -69,11 +51,11 @@ Some of the tasks carried out while cleaning the data are shown below:
 
 ## Project Report
 
-The excel work book can be downloaded [here](https://docs.google.com/spreadsheets/d/1rZ-Th1m7ITVFHSAoqG9BdXscGcru2tGo/edit?usp=drive_link&ouid=107186238420796809487&rtpof=true&sd=true). In addition to the existing sheets, microsoft excel sheets were created for the analysis and report (dashboard). Another sheet was created to aid the VLOOKUP used for the 'quater slicers' on the report.
-
-The image below shows how the report looks like. This also be downloaded [here](https://docs.google.com/spreadsheets/d/1rZ-Th1m7ITVFHSAoqG9BdXscGcru2tGo/edit?usp=drive_link&ouid=107186238420796809487&rtpof=true&sd=true) for better interactions.
+The image below shows how the dashbord looks like. Here, the shipping manager gets the visual representation of the outstanding orders and the destinations by selecting the date.
 
 ![image](https://github.com/AdebayoDare/Logistic-company-shipped-orders-analysis-using-Microsoft-Power-BI-/assets/93272487/47cd84fe-693b-4b44-b01a-a361d75c469a)
+
+Other visualization can be seen at the 'general' tab of the attached Microsoft Power BI file attached.
 
 
 ## Disclaimer
